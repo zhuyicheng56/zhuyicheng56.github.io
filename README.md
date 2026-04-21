@@ -1,2 +1,2 @@
 The zhuyicheng56's website
-https://zhuyicheng56.github.io/index.htm
+https://zhuyicheng56.github.io/index.html
